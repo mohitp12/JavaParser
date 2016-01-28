@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaParser_jar</output-path>
+    <root id="archive" name="JavaParser.jar">
+      <element id="module-output" name="JavaParser" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/plantuml4idea/lib/plantuml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/plantuml4idea/lib/plantuml4idea.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/graphviz-2.38/plantuml-dependency-cli-1.4.0-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/Fall2015/CMPE202/javaparser-master/javaparser-core/target/javaparser-core-2.2.3-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="library" level="project" name="javaparser-core-2.2.3-SNAPSHOT" />
+      <element id="library" level="project" name="plantuml" />
+      <element id="library" level="project" name="plantuml-dependency-cli-1.4.0-jar-with-dependencies" />
+    </root>
+  </artifact>
+</component>

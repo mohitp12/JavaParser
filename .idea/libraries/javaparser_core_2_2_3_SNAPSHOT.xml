@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javaparser-core-2.2.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://F:/Fall2015/CMPE202/javaparser-master/javaparser-core/target/javaparser-core-2.2.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/javaparser-1.0.8-src.zip!/src" />
+      <root url="jar://$USER_HOME$/Downloads/javaparser-1.0.8-src.zip!/test" />
+    </SOURCES>
+  </library>
+</component>
